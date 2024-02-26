@@ -8,3 +8,6 @@
 # Setting up database
 - Run migrations on the database ```cd expense_tracker && python manage.py migrate```
 - Create a superuser ```python manage.py createsuperuser```
+
+# Running the server
+- ```python manage.py runserver```
